@@ -7,3 +7,6 @@ print(test1)
 
 test2 = x * y
 print(test2)
+
+test3 = x/y
+print(test3)
